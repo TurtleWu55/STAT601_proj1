@@ -130,7 +130,6 @@ server <- function(input, output, session) {
             theme(plot.title = element_text(hjust = 0.5))
         
         p_all <- plot_grid(p1,p2,p3,labels='AUTO')
-        
         return(p_all)
     })
 }
