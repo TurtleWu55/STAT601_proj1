@@ -1,0 +1,11 @@
+name: Test
+title: Test
+username:
+account: cwu377
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4842419
+bundleId: 5140360
+url: https://cwu377.shinyapps.io/Test/
+when: 1634254808.19519
+lastSyncTime: 1634254808.1952
